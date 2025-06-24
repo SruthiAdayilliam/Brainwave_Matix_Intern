@@ -36,12 +36,6 @@ These filters allow for dynamic exploration of trends across time, product types
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Super Store Sales Dashboard](superstore_sales_dashboard_v2.png)
-
----
-
 ## 🛠️ Tools Used
 
 - **Power BI** for dashboard creation and interactivity
@@ -49,5 +43,4 @@ These filters allow for dynamic exploration of trends across time, product types
 - Data transformation using **Power Query**
 
 
-## 📁 Project Folder Structure
 
