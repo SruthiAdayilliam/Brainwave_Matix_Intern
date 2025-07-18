@@ -27,7 +27,7 @@ Build an interactive dashboard to visualize superstore sales performance.
 ## 📌 Task 2: Social Media Sentiment Analysis
 
 ### 🔍 Objective:
-Analyze Twitter data to determine public sentiment on a specific topic using NLP techniques.
+Analyze Social media data to determine public sentiment on a specific topic using NLP techniques.
 
 ### 📂 Files:
 - `Social Media Sentiment Analysis.ipynb` *(Jupyter Notebook)*
