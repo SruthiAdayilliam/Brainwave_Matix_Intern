@@ -1,46 +1,49 @@
-# Brainwave_Matix_Intern
-# 🛍️ Super Store Sales Dashboard
+# Brainwave Matix Internship Projects
 
-This Power BI dashboard provides a detailed visual analysis of sales performance for a Super Store over the years. It enables users to filter and explore key business metrics such as sales trends, customer insights, and product performance.
-
----
-
-## 📊 Key Metrics
-
-- **Total Sales**: 2.26M  
-- **Total Orders**: 4,922  
-- **Total Customers**: 793  
+This repository contains the tasks completed during my Data Science internship at Brainwave Matix.
 
 ---
 
-## 📈 Dashboard Features
+## 📌 Task 1: Superstore Sales Dashboard
 
-- **Sales by City**: Highlights which cities contribute the most to total sales.
-- **Top 5 Products**: Pie chart showing the most sold products by sales.
-- **Sales by Year**: Line chart showing growth trends from 2015 to 2018.
-- **Top 5 Customers**: Bar chart displaying top revenue-generating customers.
-- **Sales by Category**: Donut chart comparing Furniture, Office Supplies, and Technology.
-- **Sales by Ship Mode**: Pie chart of shipping method preferences.
+### 🔍 Objective:
+Build an interactive dashboard to visualize superstore sales performance.
+
+### 📂 Files:
+- `Super store sales data.xlsx`
+- `Super Store Sales Dashboard.png`
+
+### ⚙️ Tools & Techniques:
+- Power BI
+- Excel data cleaning
+- KPI visualizations, filters, and slicers
+
+### 📊 Dashboard Features:
+- Sales by region, category, sub-category
+- Profit trends over time
+- Top-selling products
+
+---
+## 📌 Task 2: Social Media Sentiment Analysis
+
+### 🔍 Objective:
+Analyze Twitter data to determine public sentiment on a specific topic using NLP techniques.
+
+### 📂 Files:
+- `Social Media Sentiment Analysis.ipynb` *(Jupyter Notebook)*
+
+### ⚙️ Tools & Techniques:
+- Natural Language Processing (NLP)
+- VADER Sentiment Analysis
+- WordCloud
+- Matplotlib, Pandas
+
+### 📊 Output:
+- Positive, Negative, and Neutral sentiment distribution.
+- WordClouds for each sentiment.
+- Bar chart of most common words.
 
 ---
 
-## 🎛️ Interactive Filters
-
-Users can slice the data using:
-- **State**
-- **Sub-Category**
-- **Category**
-- **Year**
-
-These filters allow for dynamic exploration of trends across time, product types, and geographic locations.
-
----
-
-## 🛠️ Tools Used
-
-- **Power BI** for dashboard creation and interactivity
-- **Excel** / **CSV** source data (Superstore dataset)
-- Data transformation using **Power Query**
-
-
-
+## ✅ Conclusion:
+These projects demonstrate my ability to perform data cleaning, analysis, visualization, and NLP-based insights, using Python, Power BI, and real-world datasets.
